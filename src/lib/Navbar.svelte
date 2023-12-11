@@ -4,7 +4,7 @@
       <a href="/">Home</a>
     </li>
     <li>
-      <a href="/about">Services</a>
+      <a href="/services">Services</a>
     </li>
   </ul>
 </nav>
