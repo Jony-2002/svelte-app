@@ -13,6 +13,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 50px 100px;
+    padding: 20px 60px;
+    background-color: #74C69D;
   }
 </style>
